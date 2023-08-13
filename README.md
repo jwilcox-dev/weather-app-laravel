@@ -11,3 +11,4 @@
 5. Run "php artisan key:generate".
 6. Run "php artisan migrate".
 7. Run "php artisan serve" (use default port 8000).
+8. Use as back-end API in combination with React front-end.
